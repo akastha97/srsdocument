@@ -36,5 +36,5 @@ This document contains:
 
 ### Link 
 
-You can access the full SRS document [here](https://github.com/akastha97/srsdocument/blob/master/IT%20426%20SRS%20Deliverable%204.pdf)
+You can access the full SRS document [here](https://github.com/akastha97/srsdocument/blob/master/srs-document.pdf)
 
