@@ -18,7 +18,7 @@ This document is useful for different groups of people:
 
 3. Other Project Stakeholders: Anyone else who cares about or is affected by this app. They might want to know what's happening with it.
 
-## This document can be used by Students, for any student who is doing a similar coursework, or project can use this as a reference for their own project.
+### This document can be used by Students, for any student who is doing a similar coursework, or project can use this as a reference for their own project.
   
 ### What's Inside? 
 This document contains: 
